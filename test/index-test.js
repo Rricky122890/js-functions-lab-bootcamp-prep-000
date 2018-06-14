@@ -1,4 +1,4 @@
-/*global describe, it*/
+l/*global describe, it*/
 
 describe('functions', () => {
   describe('happyHolidays', () => {
